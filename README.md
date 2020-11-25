@@ -1,1 +1,1 @@
-# An RNN classifier for the ImdB dataset
+# An RNN classifier for the IMDb dataset
