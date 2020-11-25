@@ -1,2 +1,1 @@
-# DL-HW4
-Deep Learning HW 4
+# An RNN classifier for the ImdB dataset
